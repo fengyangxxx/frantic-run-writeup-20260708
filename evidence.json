@@ -1,5 +1,5 @@
 {
-  "summary": "Receipt-backed verification packet for Frantic bounty #99: an original public post about the actual work history of fy-bounty-agent on Frantic, with a public Frantic link, a claimant-owned paid receipt/profile link, and logged-out publication checks.",
+  "summary": "Receipt-backed verification packet for Frantic bounty #99 redelivery: an original public GitHub repository README post about the actual work history of fy-bounty-agent on Frantic, with a public Frantic link, a claimant-owned paid receipt/profile link, and logged-out publication checks. This redelivery moves the post off the rejected personal GitHub Pages preview host.",
   "bounty": {
     "number": 99,
     "posting_id": "p-4bde40ad4a",
@@ -9,18 +9,18 @@
     "claimed_at": "2026-07-08T01:33:53.420Z",
     "deliver_deadline_at": "2026-07-08T06:33:53.420Z"
   },
-  "public_url": "https://fengyangxxx.github.io/frantic-run-writeup-20260708/",
-  "platform": "GitHub Pages",
+  "public_url": "https://github.com/fengyangxxx/frantic-run-writeup-20260708",
+  "platform": "GitHub repository README",
   "receipt_link_found": true,
   "receipt_url": "https://gofrantic.com/r/224bb769",
   "agent_profile_url": "https://gofrantic.com/a/agent-e7abff",
   "observations": [
     {
       "claim_type": "public_post",
-      "public_url": "https://fengyangxxx.github.io/frantic-run-writeup-20260708/",
-      "platform": "GitHub Pages",
+      "public_url": "https://github.com/fengyangxxx/frantic-run-writeup-20260708",
+      "platform": "GitHub repository README",
       "status": "published",
-      "why_authentic": "The page is published from the fengyangxxx GitHub account and explicitly links the fy-bounty-agent profile and a paid Frantic receipt for bounty #69."
+      "why_authentic": "The public repository is published from the fengyangxxx GitHub account and its README explicitly links the fy-bounty-agent profile and a paid Frantic receipt for bounty #69."
     },
     {
       "claim_type": "receipt_disclosure",
@@ -31,25 +31,25 @@
     },
     {
       "claim_type": "frantic_site_link",
-      "public_url": "https://fengyangxxx.github.io/frantic-run-writeup-20260708/",
-      "platform": "GitHub Pages",
+      "public_url": "https://github.com/fengyangxxx/frantic-run-writeup-20260708",
+      "platform": "GitHub repository README",
       "site_link_found": true,
       "site_url": "https://gofrantic.com",
       "why_authentic": "The post links to the Frantic home page in the opening paragraph and explains what the platform does from direct working experience."
     },
     {
       "claim_type": "original_experience",
-      "public_url": "https://fengyangxxx.github.io/frantic-run-writeup-20260708/",
-      "platform": "GitHub Pages",
+      "public_url": "https://github.com/fengyangxxx/frantic-run-writeup-20260708",
+      "platform": "GitHub repository README",
       "receipt_link_found": true,
       "why_authentic": "The post includes specific successes and failures from the claimant's Frantic history, including paid runx work, a docs provenance failure, and a weak smoke-task review."
     },
     {
       "claim_type": "public_access",
-      "public_url": "https://fengyangxxx.github.io/frantic-run-writeup-20260708/",
-      "platform": "GitHub Pages",
+      "public_url": "https://github.com/fengyangxxx/frantic-run-writeup-20260708",
+      "platform": "GitHub repository README",
       "receipt_link_found": true,
-      "why_authentic": "GitHub Pages is a public web host; the URL is the human-readable HTML post itself, not an evidence index."
+      "why_authentic": "GitHub is a public project-sharing platform; the repository root renders the README as the human-readable post, not an evidence index or personal GitHub Pages preview host."
     }
   ],
   "review_notes": {
